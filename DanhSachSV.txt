@@ -1,0 +1,11 @@
+Ngo Thi Quyt | Dien tu | 0
+Tran Thi Cam | Kinh te | 6
+Nguyen Huu Cam | Bao chi truyen thong | 6
+Tran Thi Quyt | Bao chi truyen thong | 7
+Ngo Thi Mo | CNTT | 8
+Nguyen Nu Cam | CNTT | 10
+Le Thi Mo | Kinh te | 5
+Ngo Van Quyt | Kinh te | 9
+Le Huu Man | Kinh te | 0
+Tran Van Mo | Bao chi truyen thong | 9
+Le Huu Man | CNTT | 2
